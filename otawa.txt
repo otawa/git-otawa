@@ -1,3 +1,2 @@
 otawa
-otawa1
-otawaB
+A
